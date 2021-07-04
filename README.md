@@ -1,5 +1,4 @@
 ![indiamara](https://user-images.githubusercontent.com/57465331/120900948-28b93400-c60e-11eb-8964-fde257d81f5e.png)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=gruvbox)
 <h1>Olá! 👋 Me chamo Indiamara, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Opet.</h1>
 - 🏠 Moro em Curitiba - Paraná - Brasil
 - ☕ Atualmente sou Barista (Aceita tomar um café comigo?)
@@ -10,3 +9,4 @@
 
 
 Em construção 🛠️
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=gruvbox)
