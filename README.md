@@ -1,4 +1,3 @@
-![indiamara](https://user-images.githubusercontent.com/57465331/120900948-28b93400-c60e-11eb-8964-fde257d81f5e.png)
 
 ## Olá! 👋 Me chamo Indiamara, sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário OPET.
 
