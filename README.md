@@ -14,4 +14,4 @@
   
  📚 <a href="https://www.notion.so/indiamara/An-lise-e-Desenvolvimento-de-Sistemas-bd6e80e0fb3c415ca165ee4cc0117e2a"> Meu caderno da Faculdade</a>
  
-
+ 📧 indiamaraenes@gmail.com
