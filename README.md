@@ -6,11 +6,13 @@
  
  🏠 Moro em Curitiba - Paraná - Brasil
   
- ☕ Atualmente sou Barista
+ ☕ Atualmente estudo HTML, CSS, JAVASCRIPT, PHP e lógica de programação!
   
  📚 <a href="https://www.notion.so/indiamara/An-lise-e-Desenvolvimento-de-Sistemas-bd6e80e0fb3c415ca165ee4cc0117e2a"> Meu caderno da Faculdade</a>
  
- 📧 indiamaraenes@gmail.com
+ 📧 <a href="mailto:indiamaraenes@gmail.com">Me envie uma mensagem!</a>
+ 
+ 
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
