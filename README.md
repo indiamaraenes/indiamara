@@ -1,6 +1,6 @@
 <h2>Olá, eu sou a Indiamara 👋🏼</h2>
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas!</p>
+<p> </p>
  <div align="center">
   <a href="https://github.com/indiamaraenes">
   <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
