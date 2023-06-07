@@ -1,6 +1,6 @@
 <h2>Olá! 👋🏼</h2>
 
-Sou Indiamara, tecnóloga em Análise e Desenvolvimento de Sistemas. Uma entusiasta da programação e desenvolvedora web. Meu foco principal é o desenvolvimento web, e estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
+Sou Indiamara. tecnóloga em Análise e Desenvolvimento de Sistemas. Uma entusiasta da programação e desenvolvedora web. Meu foco principal é o desenvolvimento web, e estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
 ### Tecnologias que utilizo:
 
