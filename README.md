@@ -4,14 +4,14 @@ Sou Indiamara. Tecnóloga em Análise e Desenvolvimento de Sistemas. Uma entusia
 
 ### Tecnologias que utilizo:
 
-- Linguagens de programação: PHP | Javascript | Python
-- Frameworks: Laravel | Vue.js | Django 
+- Linguagens de programação: PHP | Javascript
+- Framework: Laravel 
 - BD: MySQL | PostgreSQL
 - Ferramentas e tecnologias adicionais: POSTMAN | FIGMA  | GIT | GITHUB | DHTMLX
 
 ### Meus Interesses:
 
-- Desenvolvimento web full-stack
+- Desenvolvimento web
 - Arquitetura de software
 - Experiência do usuário (UX)
 - Desenvolvimento de aplicações web responsivas e acessíveis
@@ -21,6 +21,8 @@ Se você está interessado em trocar ideias, sinta-se à vontade para entrar em 
   <a href="https://www.instagram.com/indiamaraenes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: indiamaraenes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/indiamara.enes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  
  <a href="https://codepen.io/indiamaraenes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 
 <hr>
