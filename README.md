@@ -1,7 +1,7 @@
 # Olá, eu sou a Indiamara👋
 
 
-Bem-vindo ao meu perfil no GitHub! Sou formada em Análise e Desenvolvimento de Sistemas (ADS), Residente Técnica, com uma pós-graduação em Inovação e Transformação Digital, e-gov, e com experiência em Gestão de Projetos e Desenvolvimento Web.
+Bem-vindo ao meu perfil no GitHub! Sou formada em Análise e Desenvolvimento de Sistemas (ADS), Residente Técnica, com uma pós-graduação em Inovação e Transformação Digital e E-gov, e com experiência em Gestão de Projetos e Desenvolvimento Web.
 
 ## Sobre Mim
 
