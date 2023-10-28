@@ -18,6 +18,7 @@ Bem-vindo ao meu perfil no GitHub! Sou formada em Análise e Desenvolvimento de 
 - Versionamento de código
 - Gerenciamento de Projetos
 - Inovação e Transformação Digital
+- Metodologia Ágil
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://beacons.ai/indiamara)
