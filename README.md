@@ -30,7 +30,7 @@ Sinta-se à vontade para entrar em contato para discutir colaborações, projeto
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)](https://github.com/indiamaraenes)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=dark)](https://github.com/indiamaraenes)
 
 Obrigado por visitar o meu perfil! 😊
 
