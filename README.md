@@ -3,6 +3,8 @@
 
 Bem-vindo ao meu perfil no GitHub!
 
+Sou analista de Sistemas, atualmente residente técnica cursando especialização em inovação e transformação digital e e-gov.
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://beacons.ai/indiamara)
 
