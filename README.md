@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub!
 
-Sou uma analista de Sistemas e atualmente residente técnica, cursando especialização em inovação e transformação digital e e-gov pela Universidade Estadual do Centro Oeste no Paraná.
+Sou uma analista de sistemas e atualmente residente técnica no DETRAN/PR, cursando especialização em inovação e transformação digital e e-gov pela Universidade Estadual do Centro Oeste no Paraná.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://beacons.ai/indiamara)
