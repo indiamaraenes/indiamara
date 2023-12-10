@@ -20,7 +20,7 @@ Sinta-se à vontade para entrar em contato e discutir colaborações, projetos o
 ##  🔍 Interesses
 - Gestão de Projetos
 - Metodologias Ágeis
-- Ferramentas: BPMN, Mapa Mental
+- Ferramentas: BPMN, Mapa Mental...
 - Melhorias de processos
 - Análise de Dados
 
