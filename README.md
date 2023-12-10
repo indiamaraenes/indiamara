@@ -25,6 +25,7 @@ Sinta-se à vontade para entrar em contato e discutir colaborações, projetos o
 - Análise de Dados
 
 ## 🌐 Pesquisa e Desenvolvimento
+- Educação a distância
 - Explorando tecnologias emergentes como automação, inteligência artificial e IoT.
 - Cases de Transformação Digital
 - O processo da Transformação Digital no Poder Público
