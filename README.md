@@ -22,7 +22,7 @@ Sinta-se à vontade para entrar em contato e discutir colaborações, projetos o
 - Metodologias Ágeis
 - Ferramentas: BPMN, Mapa Mental...
 - Melhorias de processos
-- Análise de Dados
+- Desenvolvimento Web
 
 ## 🌐 Pesquisa e Desenvolvimento
 - Educação a distância
