@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 Sou uma analista de sistemas e atualmente residente técnica no DETRAN/PR, cursando especialização em inovação e transformação digital pela Universidade Estadual do Centro Oeste no Paraná.
 
-🌱 Atualmente, estou estudando sobre Design Thinking, Inovação, Produto, Transformação Digital e Python.
+🌱 Atualmente, estou estudando sobre Design Thinking, Inovação,Transformação Digital e Python.
 
 📖 Às vezes eu escrevo e publico aqui [dev.to/indiamaraenes](https://dev.to/indiamaraenes)
 
