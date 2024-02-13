@@ -20,6 +20,7 @@ Atualmente, estou estudando sobre Design Thinking, Inovação,Transformação Di
 
 Sinta-se à vontade para entrar em contato e discutir colaborações, projetos ou apenas trocar ideias sobre tecnologia e inovação!
 
+
 ### Interesses 🔍
 - Gestão de Projetos
 - Metodologias Ágeis
