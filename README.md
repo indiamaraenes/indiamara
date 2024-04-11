@@ -1,5 +1,4 @@
 <h1 align="center">Olá, eu sou a Indiamara</h1>
-<h6 align="center"><i>Residente Técnica - Pesquisa e desenvolvimento em inovação e transformação digital</i></h6>
 
 ![](https://komarev.com/ghpvc/?username=indiamaraenes&color=ff69b4)
 
